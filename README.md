@@ -23,3 +23,7 @@ In deze leertaak hebben we layouts gemaakt in grids met HTML en CSS.
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
 # Licentie
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
